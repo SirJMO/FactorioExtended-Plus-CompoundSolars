@@ -1,6 +1,13 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.1
+Version: 0.1.0
 Date: 05. 28. 2018
 
   Changes :
     - Created the mod for solars and accumulators mk4-8
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 05. 28. 2018
+
+  Changes :
+    - Changed science cost
+    - Removed duplicate science
