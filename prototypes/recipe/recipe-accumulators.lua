@@ -8,7 +8,8 @@ data:extend(
     ingredients =
     {
       {"accumulator-mk3", 4},
-      {"steel-plate", 25}
+      {"steel-plate", 25},
+      {"titanium-alloy", 10}
     },
     result = "accumulator-mk4"
   },
@@ -20,7 +21,8 @@ data:extend(
     ingredients =
     {
       {"accumulator-mk4", 4},
-      {"steel-plate", 25}
+      {"steel-plate", 25},
+      {"titanium-alloy", 10}
     },
     result = "accumulator-mk5"
   },
@@ -32,7 +34,8 @@ data:extend(
     ingredients =
     {
       {"accumulator-mk5", 4},
-      {"steel-plate", 25}
+      {"steel-plate", 25},
+      {"titanium-alloy", 10}
     },
     result = "accumulator-mk6"
   },
@@ -44,7 +47,8 @@ data:extend(
     ingredients =
     {
       {"accumulator-mk6", 4},
-      {"steel-plate", 25}
+      {"steel-plate", 25},
+      {"titanium-alloy", 10}
     },
     result = "accumulator-mk7"
   },
@@ -56,7 +60,8 @@ data:extend(
     ingredients =
     {
       {"accumulator-mk7", 4},
-      {"steel-plate", 25}
+      {"steel-plate", 25},
+      {"titanium-alloy", 10}
     },
     result = "accumulator-mk8"
   }

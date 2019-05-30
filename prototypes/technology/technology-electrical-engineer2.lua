@@ -44,7 +44,7 @@ data:extend(
     prerequisites = {"solar-energy-4"},
     unit =
     {
-      count = 500,
+      count = 2000,
       ingredients =
       {
         {"automation-science-pack", 1},
@@ -73,7 +73,7 @@ data:extend(
     prerequisites = {"solar-energy-5"},
     unit =
     {
-      count = 500,
+      count = 8000,
       ingredients =
       {
         {"automation-science-pack", 1},
@@ -102,7 +102,7 @@ data:extend(
     prerequisites = {"solar-energy-6"},
     unit =
     {
-      count = 500,
+      count = 32000,
       ingredients =
       {
         {"automation-science-pack", 1},
@@ -131,7 +131,7 @@ data:extend(
     prerequisites = {"solar-energy-7"},
     unit =
     {
-      count = 500,
+      count = 128000,
       ingredients =
       {
         {"automation-science-pack", 1},
@@ -191,7 +191,7 @@ data:extend(
     prerequisites = {"electric-energy-accumulators-4"},
     unit =
     {
-      count = 500,
+      count = 2000,
       ingredients =
       {
         {"automation-science-pack", 1},
@@ -204,36 +204,6 @@ data:extend(
       time = 30
     },
     order = "c-e-e",
-  },
-  {
-    type = "technology",
-    name = "electric-energy-accumulators-5",
-    icon_size = 128,
-    icon = "__base__/graphics/technology/electric-energy-acumulators.png",
-    localised_name = {"technology-name.electric-energy-accumulators-5"},
-    effects =
-    {
-      {
-        type = "unlock-recipe",
-        recipe = "accumulator-mk5"
-      }
-    },
-    prerequisites = {"electric-energy-accumulators-4"},
-    unit =
-    {
-      count = 500,
-      ingredients =
-      {
-        {"automation-science-pack", 1},
-        {"logistic-science-pack", 1},
-        {"chemical-science-pack", 1},
-        {"production-science-pack", 1},
-        {"utility-science-pack", 1},
-		{"space-science-pack", 1}
-      },
-      time = 30
-    },
-    order = "c-e-f",
   },
   {
     type = "technology",
@@ -251,7 +221,7 @@ data:extend(
     prerequisites = {"electric-energy-accumulators-5"},
     unit =
     {
-      count = 500,
+      count = 8000,
       ingredients =
       {
         {"automation-science-pack", 1},
@@ -281,7 +251,7 @@ data:extend(
     prerequisites = {"electric-energy-accumulators-6"},
     unit =
     {
-      count = 500,
+      count = 32000,
       ingredients =
       {
         {"automation-science-pack", 1},
@@ -311,7 +281,7 @@ data:extend(
     prerequisites = {"electric-energy-accumulators-7"},
     unit =
     {
-      count = 500,
+      count = 128000,
       ingredients =
       {
         {"automation-science-pack", 1},

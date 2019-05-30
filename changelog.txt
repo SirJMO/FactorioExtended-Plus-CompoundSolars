@@ -11,3 +11,9 @@ Date: 05. 28. 2018
   Changes :
     - Changed science cost
     - Removed duplicate science
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 05. 30. 2018
+
+  Changes :
+    - added titanium cost to accumulators, as they felt too easy
