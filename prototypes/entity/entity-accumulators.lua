@@ -6,8 +6,7 @@ data:extend(
   {
     type = "accumulator",
     name = "accumulator-mk4",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk4.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk4.png", icon_mipmaps = 4, icon_size = 64, tint = nil}},
     flags = {"placeable-neutral", "player-creation"},
     minable = {mining_time = 0.1, result = "accumulator-mk4"},
     max_health = 400,
@@ -55,8 +54,7 @@ data:extend(
   {
     type = "accumulator",
     name = "accumulator-mk5",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk5.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk5.png", icon_mipmaps = 4, icon_size = 64, tint = nil}},
     flags = {"placeable-neutral", "player-creation"},
     minable = {mining_time = 0.1, result = "accumulator-mk5"},
     max_health = 500,
@@ -104,8 +102,7 @@ data:extend(
   {
     type = "accumulator",
     name = "accumulator-mk6",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk6.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk6.png", icon_mipmaps = 4, icon_size = 64, tint = nil}},
     flags = {"placeable-neutral", "player-creation"},
     minable = {mining_time = 0.1, result = "accumulator-mk6"},
     max_health = 600,
@@ -153,8 +150,7 @@ data:extend(
   {
     type = "accumulator",
     name = "accumulator-mk7",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk7.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk7.png", icon_mipmaps = 4, icon_size = 64, tint = nil}},
     flags = {"placeable-neutral", "player-creation"},
     minable = {mining_time = 0.1, result = "accumulator-mk7"},
     max_health = 700,
@@ -202,8 +198,7 @@ data:extend(
   {
     type = "accumulator",
     name = "accumulator-mk8",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk8.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/accumulator-mk8.png", icon_mipmaps = 4, icon_size = 64, tint = nil}},
     flags = {"placeable-neutral", "player-creation"},
     minable = {mining_time = 0.1, result = "accumulator-mk8"},
     max_health = 800,
