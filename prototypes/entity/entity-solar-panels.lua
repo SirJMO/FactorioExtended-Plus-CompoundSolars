@@ -4,8 +4,7 @@ data:extend(
   {
     type = "solar-panel",
     name = "solar-panel-mk4",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk4.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk4.png", icon_mipmaps = 4, icon_size = 64}},
     flags = {"placeable-neutral", "player-creation"},
     minable = { mining_time = 0.1, result = "solar-panel-mk4"},
     max_health = 800,
@@ -86,8 +85,7 @@ data:extend(
   {
     type = "solar-panel",
     name = "solar-panel-mk5",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk5.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk5.png", icon_mipmaps = 4, icon_size = 64}},
     flags = {"placeable-neutral", "player-creation"},
     minable = { mining_time = 0.1, result = "solar-panel-mk5"},
     max_health = 1000,
@@ -168,8 +166,7 @@ data:extend(
   {
     type = "solar-panel",
     name = "solar-panel-mk6",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk6.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk6.png", icon_mipmaps = 4, icon_size = 64}},
     flags = {"placeable-neutral", "player-creation"},
     minable = { mining_time = 0.1, result = "solar-panel-mk6"},
     max_health = 800,
@@ -250,8 +247,7 @@ data:extend(
   {
     type = "solar-panel",
     name = "solar-panel-mk7",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk7.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk7.png", icon_mipmaps = 4, icon_size = 64}},
     flags = {"placeable-neutral", "player-creation"},
     minable = { mining_time = 0.1, result = "solar-panel-mk7"},
     max_health = 800,
@@ -332,8 +328,7 @@ data:extend(
   {
     type = "solar-panel",
     name = "solar-panel-mk8",
-    icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk8.png",
-    icon_size = 32,
+	icons = {{icon = "__FactorioExtended-Plus-CompoundSolars__/graphics/icons/solar-panel-mk8.png", icon_mipmaps = 4, icon_size = 64}},
     flags = {"placeable-neutral", "player-creation"},
     minable = { mining_time = 0.1, result = "solar-panel-mk8"},
     max_health = 800,

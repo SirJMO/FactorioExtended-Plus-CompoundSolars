@@ -3,7 +3,7 @@ data:extend(
   {
     type = "technology",
     name = "solar-energy-4",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/solar-energy.png",
     effects =
     {
@@ -32,7 +32,7 @@ data:extend(
   {
     type = "technology",
     name = "solar-energy-5",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/solar-energy.png",
     effects =
     {
@@ -61,7 +61,7 @@ data:extend(
   {
     type = "technology",
     name = "solar-energy-6",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/solar-energy.png",
     effects =
     {
@@ -90,7 +90,7 @@ data:extend(
   {
     type = "technology",
     name = "solar-energy-7",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/solar-energy.png",
     effects =
     {
@@ -119,7 +119,7 @@ data:extend(
   {
     type = "technology",
     name = "solar-energy-8",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/solar-energy.png",
     effects =
     {
@@ -148,7 +148,7 @@ data:extend(
   {
     type = "technology",
     name = "electric-energy-accumulators-4",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/electric-energy-acumulators.png",
     localised_name = {"technology-name.electric-energy-accumulators-4"},
     effects =
@@ -178,7 +178,7 @@ data:extend(
   {
     type = "technology",
     name = "electric-energy-accumulators-5",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/electric-energy-acumulators.png",
     localised_name = {"technology-name.electric-energy-accumulators-4"},
     effects =
@@ -208,7 +208,7 @@ data:extend(
   {
     type = "technology",
     name = "electric-energy-accumulators-6",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/electric-energy-acumulators.png",
     localised_name = {"technology-name.electric-energy-accumulators-6"},
     effects =
@@ -238,7 +238,7 @@ data:extend(
   {
     type = "technology",
     name = "electric-energy-accumulators-7",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/electric-energy-acumulators.png",
     localised_name = {"technology-name.electric-energy-accumulators-7"},
     effects =
@@ -268,7 +268,7 @@ data:extend(
   {
     type = "technology",
     name = "electric-energy-accumulators-8",
-    icon_size = 128,
+    icon_size = 256,
     icon = "__base__/graphics/technology/electric-energy-acumulators.png",
     localised_name = {"technology-name.electric-energy-accumulators-8"},
     effects =
