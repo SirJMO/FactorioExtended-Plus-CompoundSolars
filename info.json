@@ -1,15 +1,15 @@
 {
   "name": "FactorioExtended-Plus-CompoundSolars",
-  "version": "1.0.1",
-  "factorio_version": "1.0",
+  "version": "1.1.0",
+  "factorio_version": "1.1",
   "date": "2020-11-23",
   "title": "FactorioExtended Plus-CompoundSolars",
   "author": "SirJMO (Original Author: jimmyjon711 (Original Author: Nath Gamer))",
   "homepage": "",
   "description": "",
   "dependencies": [
-    "base >= 1.0.0",
-    "FactorioExtended-Plus-Core >= 1.0.0",
-    "FactorioExtended-Plus-Power >= 1.0.2"
+    "base >= 1.1.0",
+    "FactorioExtended-Plus-Core >= 1.1.0",
+    "FactorioExtended-Plus-Power >= 1.1.0"
   ]
 }
